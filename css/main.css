@@ -1,0 +1,50 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background-color: white;
+}
+
+header {
+  text-align: center;
+  background-color: transparent !important;
+  background: url(/img/chandelierBackground.jpg);
+  height: 100%;
+  background-size: cover;
+  padding-bottom: 5%;
+}
+
+header h1 {
+  font-size: 3em;
+  padding-top: 45%;
+  color: white;
+  padding-bottom: 5%;
+  margin-bottom: 5%;
+  text-shadow: 2px 2px black;
+}
+
+.about {
+  background-color: white;
+  padding-bottom: 5%;
+}
+
+#aboutChandelier h1 {
+  font-size: 5em;
+  display: table;
+  text-align: center;
+  padding-top: 25%;
+  padding-left: 25%;
+}
+
+#aboutText p {
+  text-align: justify;
+  font-size: 1.14em;
+  padding-top: 12%;
+  padding-right: 10%;
+}
+
+#specialConsiderations p {
+  font-size: 2em;
+}
