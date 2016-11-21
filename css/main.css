@@ -9,7 +9,7 @@ body {
 header {
   text-align: center;
   background-color: transparent !important;
-  background: url(img/chandelierBackground.jpg);
+  background-image: url(img/chandelierBackground.jpg);
   height: 100%;
   background-size: cover;
   padding-bottom: 20%;
